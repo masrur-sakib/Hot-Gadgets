@@ -24,6 +24,9 @@
     border-radius: 20px;
     box-shadow: 2px 2px 50px 1px #cecece;
 }
+.card:hover{
+    transform: scale(1.02);
+}
 button{
     color: white;
     margin-top: 20px;
@@ -31,9 +34,6 @@ button{
     background-color: black;
     border: none;
     border-radius: 8px;
-}
-.card:hover{
-    transform: scale(1.02);
 }
 
 /* Navbar */
@@ -106,4 +106,7 @@ hr{
     width: 50%;
     margin: 0px auto;
     padding: ;
+}
+.cat_busket:hover{
+    transform: scale(1.02);
 }
