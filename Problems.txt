@@ -1,3 +1,4 @@
 Problems:
 Navbar : fixed-top
-Carousel background image
+Navbar hover color change
+
