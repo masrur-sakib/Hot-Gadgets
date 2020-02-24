@@ -1,0 +1,60 @@
+/* Common Styles */
+.body{
+    margin: 0px;
+}
+.container{
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+    border: 2px solid black;
+}
+.section_title{
+    padding: 2% 0%;
+}
+.section_title a{
+    color: orange;
+    text-decoration: none;
+}
+.section_title a:hover{
+    transform: scale(1.05);
+}
+.card{
+    padding: 2%;
+    text-align: center;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 2px 2px 50px 1px #cecece;
+}
+button{
+    color: white;
+    margin-top: 20px;
+    padding: 5px 15px;
+    background-color: black;
+    border: none;
+    border-radius: 8px;
+}
+
+
+/* Carousel Styles */
+.first_section{
+    background-image: url(css/images/ellipses.jpg);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-size: 10%;
+}
+.carousel-inner{
+    background-image: url(css/images/best_products.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 6%;
+    border-radius: 15px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.carousel-indicators li{
+    background-color: grey;
+}
+.carousel-indicators .active{
+    background-color: orange;
+
+}

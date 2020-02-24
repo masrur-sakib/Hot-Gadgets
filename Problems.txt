@@ -1,0 +1,3 @@
+Problems:
+Navbar : fixed-top
+Carousel background image
