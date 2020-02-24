@@ -1,4 +1,0 @@
-Problems:
-Navbar : fixed-top
-Navbar hover color change
-
