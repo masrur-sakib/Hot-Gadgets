@@ -1,18 +1,18 @@
 <h3>Project Name: Hot Gadgets<h3>
-            <p>It’s a simple eCommerce where attractive UI has been implemented. Slideshow & social icons are used in
-                this project. This website also contains all the necessary information about the business.</p>
-            <h4>Technology Used:</h4>
+            <h6>It’s a simple eCommerce where attractive UI has been implemented. Slideshow & social icons are used in
+                this project. This website also contains all the necessary information about the business.</h6>
+            <h3>Technology Used:</h3>
             <ul>
                 <li>
-                    <h6>HTML</h6>
+                    <h5>HTML</h5>
                 </li>
                 <li>
-                    <h6>CSS</h6>
+                    <h5>CSS</h5>
                 </li>
                 <li>
-                    <h6>Bootstrap CSS</h6>
+                    <h5>Bootstrap CSS</h5>
                 </li>
                 <li>
-                    <h6>Font awesome icons</h6>
+                    <h5>Font awesome icons</h5>
                 </li>
             </ul>
