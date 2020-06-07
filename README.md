@@ -1,4 +1,4 @@
-<h3>Project Name: Hot Gadgets<h3>
+<h3>Hot Gadgets<h3>
             <h6>It’s a simple eCommerce where attractive UI has been implemented. Slideshow & social icons are used in
                 this project. This website also contains all the necessary information about the business.</h6>
             <h3>Technology Used:</h3>
