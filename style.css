@@ -1,167 +1,168 @@
 /* Common Styles */
-.body{
-    margin: 0px;
+.body {
+  margin: 0px;
 }
-.container{
-    padding-bottom: 10px;
-    margin-bottom: 30px;
-    /* border: 2px solid black; */
+.container {
+  padding-bottom: 10px;
+  margin-bottom: 30px;
+  /* border: 2px solid black; */
 }
-.section_title{
-    padding: 2% 0%;
+.section_title {
+  padding: 2% 0%;
 }
-.section_title a{
-    color: orange;
-    text-decoration: none;
+.section_title a {
+  color: orange;
+  text-decoration: none;
 }
-.section_title a:hover{
-    transform: scale(1.05);
+.section_title a:hover {
+  transform: scale(1.05);
 }
-.card{
-    padding: 2%;
-    text-align: center;
-    border: none;
-    border-radius: 20px;
-    box-shadow: 2px 2px 50px 1px #cecece;
+.card {
+  padding: 2%;
+  text-align: center;
+  border: none;
+  border-radius: 20px;
+  box-shadow: 2px 2px 50px 1px #cecece;
 }
-.card:hover{
-    transform: scale(1.02);
+.card:hover {
+  transform: scale(1.02);
 }
-button{
-    color: white;
-    margin-top: 20px;
-    padding: 5px 15px;
-    background-color: black;
-    border: none;
-    border-radius: 8px;
+button {
+  color: white;
+  margin-top: 20px;
+  padding: 5px 15px;
+  background-color: black;
+  border: none;
+  border-radius: 8px;
 }
 
 /* Navbar */
-.nav-link:hover{
-    transform: scale(0.9);
-    color: yellow;
+.nav-link:hover {
+  transform: scale(0.9);
+  color: yellow;
 }
 
 /* Carousel Styles */
-.first_section{
-    background-image: url(css/images/ellipses.jpg);
-    background-repeat: no-repeat;
-    background-position: left bottom;
-    background-size: 10%;
+.first_section {
+  background-image: url(css/images/ellipses.jpg);
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  background-size: 10%;
 }
-.carousel-inner{
-    background-image: url(css/images/best_products.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: 6%;
-    border-radius: 15px;
+.carousel-inner {
+  background-image: url(css/images/best_products.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 6%;
+  border-radius: 15px;
 }
-.carousel-item{
-    padding: 20px 40px;
+.carousel-item {
+  padding: 20px 40px;
 }
-.carousel-indicators li{
-    background-color: grey;
+.carousel-indicators li {
+  background-color: grey;
 }
-.carousel-indicators .active{
-    background-color: orange;
+.carousel-indicators .active {
+  background-color: orange;
 }
 
 /* Categories Styles  */
-.categories{
-    text-align: center;
-    margin-top: 10%;
+.categories {
+  text-align: center;
+  margin-top: 10%;
 }
-#cat_hr{
-    width: 40px;
-    margin: 0px auto 20px auto;
-    padding: 5px 50px;
-    background-image: linear-gradient(90deg, #ffd280, orange);
-    border-radius: 20px;
+#cat_hr {
+  width: 40px;
+  margin: 0px auto 20px auto;
+  padding: 5px 50px;
+  background-image: linear-gradient(90deg, #ffd280, orange);
+  border-radius: 20px;
 }
-.cat_bag{
-    margin: 10% 0%;
-    padding: 30% 10% 10% 10%;
-    text-align: center;
-    border: none;
-    border-radius: 0px 20px 0px 20px;
-    box-shadow: 2px 2px 50px 1px #cecece;
+.cat_bag {
+  margin: 10% 0%;
+  padding: 30% 10% 10% 10%;
+  text-align: center;
+  border: none;
+  border-radius: 0px 20px 0px 20px;
+  box-shadow: 2px 2px 50px 1px #cecece;
 }
-.cat_beauty{
-    margin: 10% 0%;
-    padding: 30% 10% 10% 10%;
-    text-align: center;
-    border: none;
-    border-radius: 20px 0px 20px 0px;
-    box-shadow: 2px 2px 50px 1px #cecece;
+.cat_beauty {
+  margin: 10% 0%;
+  padding: 30% 10% 10% 10%;
+  text-align: center;
+  border: none;
+  border-radius: 20px 0px 20px 0px;
+  box-shadow: 2px 2px 50px 1px #cecece;
 }
-.cat_shoe{
-    margin: 10% 0%;
-    padding: 30% 10% 10% 10%;
-    text-align: center;
-    border: none;
-    border-radius: 20px 0px 20px 0px;
-    box-shadow: 2px 2px 50px 1px #cecece;
+.cat_shoe {
+  margin: 10% 0%;
+  padding: 30% 10% 10% 10%;
+  text-align: center;
+  border: none;
+  border-radius: 20px 0px 20px 0px;
+  box-shadow: 2px 2px 50px 1px #cecece;
 }
-.cat img{
-    width: 50%;
-    margin: 0px auto;
-    padding: ;
+.cat img {
+  width: 50%;
+  margin: 0px auto;
+  padding: ;
 }
-.cat_busket:hover{
-    transform: scale(1.02);
+.cat_busket:hover {
+  transform: scale(1.02);
 }
-
 
 /* Social Media Icon  */
 /* Style all font awesome icons */
-.fa {
-    padding: 10px;
-    font-size: 20px;
-    width: 50px;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 50%;
-  }
-  
-  /* Add a hover effect if you want */
-  .fa:hover {
-    opacity: 0.7;
-  }
-  
-  /* Set a specific color for each brand */
-  
-  /* Facebook */
-  .fa-facebook {
-    background: #3B5998;
-    color: white;
-  }
-  
-  /* Twitter */
-  .fa-twitter {
-    background: #55ACEE;
-    color: white;
-  }
-
-  /* Twitter */
-  .fa-linkedin {
-    background: #3295C3;
-    color: white;
-  }
-
-  /* Twitter */
-  .fa-instagram {
-    background: #D74D5C;
-    color: white;
-  }
-.footer a{
-    color: black;
-    text text-decoration: none;
+.social-icon-section {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
 }
-.footer p{
-    margin: 0px;
+.social-icon {
+  margin: 0px 5px;
+  padding: 10px;
+  width: 40px;
+  height: 40px;
+  background: black;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.social-icon .fa {
+  color: white;
+  font-size: 15px;
+}
+
+/* Hover Dffect */
+.social-icon:hover > .fa-facebook {
+  color: #4267b2;
+  text-decoration: none;
+}
+.social-icon:hover > .fa-twitter {
+  color: #1da1f2;
+  text-decoration: none;
+}
+.social-icon:hover > .fa-linkedin {
+  color: #0e76a8;
+  text-decoration: none;
+}
+.social-icon:hover > .fa-instagram {
+  color: #da2f69;
+  text-decoration: none;
+}
+.footer a {
+  color: black;
+  text-decoration: none;
+}
+.footer p {
+  margin: 0px;
 }
 
 /* Footer  */
-footer{
-    text-align: center;
+footer {
+  text-align: center;
 }
